@@ -1,0 +1,10 @@
+.prime {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+    }
+.unu {
+    border: 1px solid black;
+    width: 40%;
+  }

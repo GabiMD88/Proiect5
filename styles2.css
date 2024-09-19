@@ -1,0 +1,27 @@
+.trei {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.doi {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px 16px;
+}
+.trei8 {
+    grid-row:1/2 ;
+    grid-column: 1/2;
+}
+.trei1 {
+grid-row: 4/5;
+grid-column: 2/3;
+}
+
+.trei5 {
+        grid-column: 1/3;
+}
+
+.trei9 {
+    grid-row: 5/7;
+    grid-column: 2/3;
+}

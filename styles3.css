@@ -1,0 +1,12 @@
+.forma {
+    display: grid;
+    
+}
+.header {
+font-family:'Times New Roman', Times, serif;
+}
+.continut {
+    display: grid;
+    width: 200px;
+    border-top-left-radius: 1px; 
+}
