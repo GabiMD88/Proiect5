@@ -1,12 +1,26 @@
 .forma {
     display: grid;
+     
+    
     
 }
 .header {
 font-family:'Times New Roman', Times, serif;
+padding-left: 50px;
+
 }
 .continut {
     display: grid;
     width: 200px;
-    border-top-left-radius: 1px; 
+    padding: 16px;
+    gap: 8px;
+}
+.linie {
+    display: inline-flex;
+    padding: 8px;
+    -ms-flex-align: center;
+}
+.buton {
+       padding-left: 60px;
+   
 }
