@@ -4,45 +4,14 @@ body {
     font-family: "Sofadi One", system-ui;
 }
 .forma {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 300px;
-    margin: 0 auto;
+    display: grid;
     
 }
 .header {
-    font-family: "Roboto", sans-serif;
-margin: 24px;
-font-size: 2.5rem;
-font-weight: 800;
-
-text-transform: capitalize;
+font-family:'Times New Roman', Times, serif;
 }
 .continut {
-    border: none;
-    width: 300px;
-    border-bottom: 1px solid grey;
-    padding: 8px 0; 
-    font-family: "Sofadi One", system-ui;
-
-    outline: none;
+    display: grid;
+    width: 200px;
+    border-top-left-radius: 1px; 
 }
-.buton {
- border: 0;
- background: black;
- color: white;
- width: 80%;
- display: grid;
- place-items: center;
- height: 40px;
- margin-top: 32px;
- cursor: pointer;
- font-family: "Roboto", sans-serif;
- }
-
- .linie {
-    text-decoration: none;
-    color: black;
-    font-weight: bold;
- }
